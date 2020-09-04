@@ -1,4 +1,0 @@
-location / {
-    proxy_pass http://192.168.100.249:8000/docs/;
-}
-
